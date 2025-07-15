@@ -1,2 +1,1 @@
-1st text
-3rd edit from main branch again
+no need of a conflict let this be common
